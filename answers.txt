@@ -10,3 +10,7 @@ Answer: Data science can be used everywhere as many places use data to solve pro
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Rebase replays the changes we made from our q3 branch on our main branch, while merging applies changes to the current branch we are on. 
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to managing data and using Git/Github. I know git is important in computer science but I have never experimented with git outside of academic purposes and I want to eventually do that comfortably.
