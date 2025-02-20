@@ -7,3 +7,6 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be used everywhere as many places use data to solve problems. It is used for predicting outcomes, decision making, etc. Since data scinece takes raw data and uses it for predictions then one example is Financing. Finance needs to track data of stocks and use data given to guess the best possible investment.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Rebase replays the changes we made from our q3 branch on our main branch, while merging applies changes to the current branch we are on. 
